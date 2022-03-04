@@ -1,2 +1,2 @@
 # Practice-Website
-i have make this website using Html CSS and Javascript
+I have made this website using HTML, CSS, and JavaScript.
